@@ -6,8 +6,7 @@ A lightweight web application for scheduling basic reservations. Users can enter
 
 ## 🌐 Live
 
-🔗 [Your Vercel link here after deploy]
-
+🔗 https://booking-system-rosy.vercel.app
 ---
 
 ## 🧩 Features
@@ -31,4 +30,5 @@ A lightweight web application for scheduling basic reservations. Users can enter
 ## 💻 How to Run Locally
 
 ```bash
-git clone https://github.com/SeuUsuario/booking-system.git
+git clone https://github.com/Anira3/booking-system.git
+
